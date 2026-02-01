@@ -67,6 +67,6 @@ df_encoded[features_to_scale] = scaler.fit_transform(df_encoded[features_to_scal
 
 # Check new statistics
 print(df_encoded[features_to_scale].describe().loc[['mean', 'std']])
-```python
+```
 
 ---
