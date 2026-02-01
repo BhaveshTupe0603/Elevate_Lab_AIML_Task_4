@@ -47,6 +47,7 @@ We applied **StandardScaler** to numerical features (`Age`, `Capital-Gain`, etc.
 * **Age:** Mean ~0.0, Std ~1.0
 * **Capital Gain:** Mean ~0.0, Std ~1.0
 * *Result:* All features now contribute equally to the model's learning process.
+<img width="989" height="390" alt="image" src="https://github.com/user-attachments/assets/1d9f132b-5c93-415f-9ebe-4b95a933ec2a" />
 
 ---
 
